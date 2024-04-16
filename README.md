@@ -8,6 +8,8 @@ This project aims to make an overlay of the Logitech G923 for your stream.
 
 ### Use G923 Version
 
+In progress
+
 ### Use Original Version
 
 Don't have 3 cameras to be showing wheel and pedals? This react application lets you connect to your G920 Racing Wheel or any steering wheel gamepad and show a visual representation of the controls as an overlay.
