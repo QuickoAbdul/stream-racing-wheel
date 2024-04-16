@@ -1,4 +1,4 @@
-# Stream a Racing Wheel gamepad overlay on PC G923
+# Overlay logitech G923 OBS Streamlabs
 
 This project is a remake of the Joextex project.
 
