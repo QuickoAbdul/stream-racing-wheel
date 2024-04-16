@@ -6,7 +6,7 @@ It was made to have an overlay of the Logitech G923 compatibility, Ready-To-Use.
 
 ### Use G923 Version
 
-In progress
+[In progress](https://quickoabdul.github.io/stream-racing-wheel-G923/)
 
 ### Use Original Version
 
