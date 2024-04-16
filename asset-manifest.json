@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/stream-racing-wheel-g923/static/css/main.413e899e.css",
-    "main.js": "/stream-racing-wheel-g923/static/js/main.5717e68b.js",
-    "index.html": "/stream-racing-wheel-g923/index.html",
-    "main.413e899e.css.map": "/stream-racing-wheel-g923/static/css/main.413e899e.css.map",
-    "main.5717e68b.js.map": "/stream-racing-wheel-g923/static/js/main.5717e68b.js.map"
+    "main.css": "/stream-racing-wheel-G923/static/css/main.413e899e.css",
+    "main.js": "/stream-racing-wheel-G923/static/js/main.5717e68b.js",
+    "index.html": "/stream-racing-wheel-G923/index.html",
+    "main.413e899e.css.map": "/stream-racing-wheel-G923/static/css/main.413e899e.css.map",
+    "main.5717e68b.js.map": "/stream-racing-wheel-G923/static/js/main.5717e68b.js.map"
   },
   "entrypoints": [
     "static/css/main.413e899e.css",
