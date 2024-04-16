@@ -2,9 +2,7 @@
 
 This project is a remake of the Joextex project.
 
-It was made to have an overlay of the Logitech G923 compatibility.
-
-This project aims to make an overlay of the Logitech G923 for your stream.
+It was made to have an overlay of the Logitech G923 compatibility, Ready-To-Use.
 
 ### Use G923 Version
 
