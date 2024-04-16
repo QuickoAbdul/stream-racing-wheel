@@ -1,8 +1,10 @@
-# Stream a Racing Wheel gamepad overlay on PC
+# Stream a Racing Wheel gamepad overlay on PC G923
 
-This project is a remake of the Joextex project
+This project is a remake of the Joextex project.
 
-It was made to have an overlay of the Logitech G923 compatibikity
+It was made to have an overlay of the Logitech G923 compatibility.
+
+This project aims to make an overlay of the Logitech G923 for your stream.
 
 ### Use G923 Version
 
