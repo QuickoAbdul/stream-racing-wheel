@@ -4,9 +4,14 @@ This project is a remake of the Joextex project.
 
 It was made to have an overlay of the Logitech G923 compatibility, Ready-To-Use.
 
-### Use G923 Version
+## Use G923 Version
 
 In progress [Logitech G923](https://quickoabdul.github.io/stream-racing-wheel-G923/)
+
+## Setup on OBS
+
+https://github.com/QuickoAbdul/stream-racing-wheel-G923/assets/90459692/c7d16317-0500-4685-9026-6c12d8a99c52
+
 
 ### Use Original Version
 
