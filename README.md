@@ -1,12 +1,12 @@
-# Overlay logitech G923 OBS Streamlabs
+# Overlay logitech G923 Stream OBS Streamlabs
 
 This project is a remake of the Joextex project.
 
-It was made to have an overlay of the Logitech G923 compatibility, Ready-To-Use.
+It was made to have an overlay of the Logitech G923 on ur stream, the website is Ready-To-Use just plug and show.
 
 ## Use G923 Version
 
-In progress [Logitech G923](https://quickoabdul.github.io/stream-racing-wheel-G923/)
+The website => [Logitech G923](https://quickoabdul.github.io/stream-racing-wheel-G923/)
 
 ## Setup on OBS
 
