@@ -13,11 +13,7 @@ The website => [Logitech G923](https://quickoabdul.github.io/stream-racing-wheel
 https://github.com/QuickoAbdul/stream-racing-wheel-G923/assets/90459692/c7d16317-0500-4685-9026-6c12d8a99c52
 
 
-### Use Original Version
-
-Don't have 3 cameras to be showing wheel and pedals? This react application lets you connect to your G920 Racing Wheel or any steering wheel gamepad and show a visual representation of the controls as an overlay.
-
-`**Every image is customizable with a URL from the web.  Create any appearance you want.**`
+### Use Original Version for G920
 
 [https://joetex.github.io/stream-racing-wheel/](https://joetex.github.io/stream-racing-wheel/)
 
